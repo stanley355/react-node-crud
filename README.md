@@ -5,4 +5,4 @@ On each folder please do Yarn Install \
 You don't need to yarn install on the root folder
 
 ## Database
-I think I used Mongodb Atlas
+Just use XAMPP for ur mysql
